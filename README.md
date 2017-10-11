@@ -10,4 +10,4 @@ Pre-requisites:
 2. Upload the attached sample sql file data to populate the two tales
 3. Copy-paste / clone the repository in your executable PHP directory
 4. Run from the browser as a localhost request or by creating a virtual host
-5. Cheer !!! Everything should be running fine.
+5. Cheers !!! Everything should be running fine.
